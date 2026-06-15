@@ -1,62 +1,77 @@
 <div align="center">
 
-# ⚡ Facebook SSL Pinning Bypass ⚡
-### 👨‍💻 By Muhammad Hamza
+# 🧬💀 SYSTEM OVERRIDE: FACEBOOK SSL BYPASS 💀🧬
+### ⚡ INITIATED BY: Muhammad Hamza ⚡
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Facebook+SSL+Pinning+Bypass;Libcoldstart.so+Binary+Patch;ARM64+Support;Muhammad+Hamza+Need Latest methd come Wtsp, Facebook" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=950&lines=>>>+Booting+Secure+Bypass+Engine...;>>>+Injecting+libcoldstart.so+Module...;>>>+Disabling+SSL+Pinning+Layer...;>>>+ARM64+Kernel+Hook+Activated;>>>+ACCESS+GRANTED+✔" />
 
 <br>
 
-![Version](https://img.shields.io/badge/Version-565.0.0.49.74-00C853?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/ARM64-FF6D00?style=for-the-badge)
-![Root](https://img.shields.io/badge/Root-Required-D50000?style=for-the-badge)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge">
+<img src="https://img.shields.io/badge/SECURITY-BYPASSED-FF0033?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVICE-ARM64%20READY-0099FF?style=for-the-badge">
 
 </div>
 
 ---
 
-## ✨ Project Information
+# 🧠 SYSTEM CORE DATA
 
-| 🔹 Item | 🔹 Value |
-|--------|---------|
-| 📦 Package | `com.facebook.katana` |
-| 🏷️ Version | `565.0.0.49.74` |
-| 🖥️ Architecture | `ARM64-v8a` |
-| ⚙️ Method | `libcoldstart.so Binary Patch` |
+```bash
+[+] PACKAGE      : com.facebook.katana
+[+] VERSION      : 565.0.0.49.74
+[+] ARCH         : ARM64-v8a
+[+] MODULE       : libcoldstart.so
+[+] MODE         : Runtime Binary Patch
+[+] STATUS       : SSL PINNING DISABLED
+[+] ROOT ACCESS  : VERIFIED
+```
 
 ---
 
-## 🌐 Contact Panel
+# 🌐 CONTROL INTERFACE
 
 <div align="center">
 
+### 📘 FACEBOOK ACCESS NODE
 <a href="https://www.facebook.com/profile.php?id=100007946797233">
-<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/FB_PROFILE-Muhammad%20Hamza-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <br><br>
 
+### 📱 SECURE COMMUNICATION CHANNEL
 <a href="https://wa.me/18192720340">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/WHATSAPP-SECURE%20LINK-25D366?style=for-the-badge&logo=whatsapp&logoColor=black">
 </a>
 
 </div>
 
 ---
 
-## 📸 Evidence
+# 📸 LIVE EVIDENCE LOG
 
 <div align="center">
 
-<img src="assets/evidence1.png" width="95%" style="border-radius:12px; box-shadow:0px 0px 20px #00ffcc;">
+<img src="assets/evidence1.png" width="90%" style="border-radius:20px; box-shadow:0px 0px 35px #00ff00;">
 
 </div>
 
 ---
 
-## ⚠️ Notice
+# ⚠️ SECURITY NOTICE
 
-> ⚡ Developed by **Muhammad Hamza**  
-> 🚀 Experimental build for research purposes only
+```
+WARNING: Unauthorized usage is strictly prohibited.
+This module is intended for research & testing environments only.
+```
+
+---
+
+<div align="center">
+
+## 🔥 SYSTEM STATUS: STABLE | MONITORING ACTIVE 🔥
+
+</div>
