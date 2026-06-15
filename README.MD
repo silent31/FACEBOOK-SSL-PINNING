@@ -1,46 +1,47 @@
 <div align="center">
 
-# 🚀 Facebook SSL Pinning Bypass
+# ⚡ Facebook SSL Pinning Bypass ⚡
+### 👨‍💻 By Muhammad Hamza
 
-### 👨‍💻 Muhammad Hamza
+<img src="assets/evidence1.png" width="100%" style="border-radius:15px; box-shadow:0px 0px 25px #1877f2;">
 
-<img src="https://img.shields.io/badge/Facebook-SSL%20Pinning%20Bypass-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<br>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Facebook+SSL+Pinning+Bypass;Libcoldstart.so+Binary+Patch;ARM64+%7C+x86_64+Support;Muhammad+Hamza+Project" />
 
-<img src="https://img.shields.io/badge/App%20Version-555.0.0.49.59-00C853?style=for-the-badge">
+<br>
 
-<img src="https://img.shields.io/badge/Architectures-ARM64%20%7C%20x86%20%7C%20x86__64-FF6D00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Root-Required-D50000?style=for-the-badge">
+![Version](https://img.shields.io/badge/Version-565.0.0.49.74-00C853?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/ARM64%20%7C%20x86%20%7C%20x86__64-FF6D00?style=for-the-badge)
+![Root](https://img.shields.io/badge/Root-Required-D50000?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📦 Project Information
+## ✨ Project Information
 
-| 🏷️ Item | 📄 Value |
-|---------|----------|
+| 🔹 Item | 🔹 Value |
+|--------|---------|
 | 📦 Package | `com.facebook.katana` |
 | 🏷️ Version | `565.0.0.49.74` |
-| 🖥️ Architectures | `ARM64-v8a` |
+| 🖥️ Architecture | `ARM64-v8a` |
 | ⚙️ Method | `libcoldstart.so Binary Patch` |
 
 ---
 
-## 📞 Contact
+## 🌐 Contact Panel
 
 <div align="center">
 
 <a href="https://www.facebook.com/profile.php?id=100007946797233">
-<img src="https://img.shields.io/badge/Facebook-Muhammad%20Hamza-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://wa.me/18192720340">
-<img src="https://img.shields.io/badge/WhatsApp-%2B1%20819%20272%200340-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 </div>
@@ -49,12 +50,15 @@
 
 ## 📸 Evidence
 
-<img src="assets/evidence1.png" width="100%"
+<div align="center">
+
+<img src="assets/evidence1.png" width="95%" style="border-radius:12px; box-shadow:0px 0px 20px #00ffcc;">
+
+</div>
 
 ---
 
-<div align="center">
+## ⚠️ Notice
 
-### ⭐ Developed by Muhammad Hamza ⭐
-
-</div>
+> ⚡ Developed by **Muhammad Hamza**  
+> 🚀 Experimental build for research purposes only
