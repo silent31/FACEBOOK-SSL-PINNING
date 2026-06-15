@@ -49,7 +49,7 @@
 
 ## 📸 Evidence
 
-<img src="assets/evidence1.jpg" width="100%">
+<img src="assets/evidence1.png" width="100%">
 
 ---
 
