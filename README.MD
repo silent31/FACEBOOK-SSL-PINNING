@@ -23,8 +23,8 @@
 | 🏷️ Item | 📄 Value |
 |---------|----------|
 | 📦 Package | `com.facebook.katana` |
-| 🏷️ Version | `555.0.0.49.59` |
-| 🖥️ Architectures | `ARM64-v8a` · `x86_64` · `x86` |
+| 🏷️ Version | `565.0.0.49.74` |
+| 🖥️ Architectures | `ARM64-v8a` |
 | ⚙️ Method | `libcoldstart.so Binary Patch` |
 
 ---
@@ -49,13 +49,7 @@
 
 ## 📸 Evidence
 
-<img src="assets/evidence1.png" width="100%">
-
----
-
-## ⚠️ Notice
-
-> This library only works with the exact Facebook version listed above.
+<img src="assets/evidence1.png" width="100%"
 
 ---
 
