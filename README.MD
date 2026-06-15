@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Facebook+SSL+Pinning+Bypass;Libcoldstart.so+Binary+Patch;ARM64+%7C+x86_64+Support;Muhammad+Hamza+Project" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Facebook+SSL+Pinning+Bypass;Libcoldstart.so+Binary+Patch;ARM64+Support;Muhammad+Hamza+" />
 
 <br>
 
