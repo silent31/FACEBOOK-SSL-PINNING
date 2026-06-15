@@ -3,8 +3,6 @@
 # ⚡ Facebook SSL Pinning Bypass ⚡
 ### 👨‍💻 By Muhammad Hamza
 
-<img src="assets/evidence1.png" width="100%" style="border-radius:15px; box-shadow:0px 0px 25px #1877f2;">
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Facebook+SSL+Pinning+Bypass;Libcoldstart.so+Binary+Patch;ARM64+%7C+x86_64+Support;Muhammad+Hamza+Project" />
@@ -12,7 +10,7 @@
 <br>
 
 ![Version](https://img.shields.io/badge/Version-565.0.0.49.74-00C853?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/ARM64%20%7C%20x86%20%7C%20x86__64-FF6D00?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/ARM64-FF6D00?style=for-the-badge)
 ![Root](https://img.shields.io/badge/Root-Required-D50000?style=for-the-badge)
 
 </div>
