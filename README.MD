@@ -23,7 +23,7 @@
 
 ```text
 📦 Package      : com.facebook.katana
-🏷️ Version      : 565.0.0.49.74
+🏷️ Version      : 575.0.0.45.73
 🖥️ Architecture : ARM64-v8a
 ⚙️ Module       : libcoldstart.so
 🔐 Security     : SSL Pinning Layer
